@@ -33,11 +33,6 @@ function newInventory(){
     document.body.append(inventory)
     return inventory
 }
-newImage('assets/tree.png', 200, 450)
-newImage('assets/pillar.png', 350, 250)
-newImage('assets/pine-tree.png', 450, 350)
-newImage('assets/crate.png', 150, 350)
-newImage('assets/well.png', 500, 575)
 
 
 function move(image){
